@@ -1,4 +1,4 @@
-package com.example.testeroom
+package com.example.listadecompras
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

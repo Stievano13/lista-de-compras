@@ -1,4 +1,4 @@
-package com.example.testeroom
+package com.example.listadecompras
 
 import org.junit.Test
 
